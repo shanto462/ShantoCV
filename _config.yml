@@ -1,16 +1,14 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Md. Shalahuddin
+description: Software Engineer, Army War Game Centre.
+baseurl: "/shantocv/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "shalahuddinshanto@gmail.com"
+linkedin: "http://linkedin.com/in/shanto462"
+github: "https://github.com/shanto462"
 
 markdown: kramdown
 theme: minima
